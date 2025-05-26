@@ -1,16 +1,25 @@
-## Hi there 👋
+# Vanessa Costa
+**Analsita de Dados**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-costa-analysis/)
+[!Outlook](https://img.shields.io/badge/-Outlook-000?style=for-the-badge&logo=microsoft-outlook&logoColor=EBCECB)](mailto:vanessa-cost@hotmail.com)
 
-<!--
-**VanessaCosta91/VanessaCosta91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+## Ferramentas & Tecnologias
+
+---
+
+## Habilidades
+
+---
+
+## 📂 Projetos Recentes
+
+---
+
+## 🎯 Objetivo Profissional
