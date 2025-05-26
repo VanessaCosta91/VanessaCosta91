@@ -7,16 +7,16 @@
 
 ## 👩‍🦱 Sobre Mim
 
-Olá! Meu nome é Vanessa, sou apaixonada por dados e inovação. Tenho atuado com foco em Análise de Dados e Business Intelligence, utilizando ferramentas como SQL, Python, Power BI, Tableau e Google Looker Studio para transformar dados em insights estratégicos.
+Olá! Meu nome é Vanessa Costa, sou apaixonada por dados e inovação. Tenho atuado com foco em Análise de Dados e Business Intelligence, utilizando ferramentas como SQL, Python, Power BI, Tableau e Google Looker Studio para transformar dados em insights estratégicos.
 
-Minha trajetória inclui sólida experiência na área contábil, o que fortaleceu minha visão analítica, atenção aos detalhes e capacidade de interpretar e comunicar informações com. Atualmente, aplico essas habilidades em projetos envolvendo manipulação e análise de grandes volumes de dados, desenvolvimento de modelos preditivos e automação de processos com PySpark e Scikit-Learn.
+Minha trajetória inclui sólida experiência na área contábil, o que fortaleceu minha visão analítica, atenção aos detalhes e capacidade de interpretar e comunicar informações. Atualmente, aplico essas habilidades em projetos envolvendo manipulação e análise de grandes volumes de dados, desenvolvimento de modelos preditivos e automação de processos com PySpark e Scikit-Learn.
 
 ---
 
 ## 🪛 Ferramentas & Tecnologias
 
 * SQL
-* python
+* Python
 * Power BI
 * Tableau
 * Google Looker Studio
@@ -40,12 +40,15 @@ Minha trajetória inclui sólida experiência na área contábil, o que fortalec
 ## 📂 Projetos Recentes
 
 * [Automação de Indicadores de E-commerce com BigQuery + Python](https://github.com/VanessaCosta91/automacao_dados_indicadores.git)
+  
 Foram realizadas as etapas de ETL, com agregações e cálculos estatísticos em Python, conversão de consultas SQL para DataFrames, e exportação dos resultados para arquivos .csv, consumidos por um dashboard no Power BI.
 
 * [Análise Histórica e Preditiva dos Jogos Olímpicos (19896-2022)](https://github.com/VanessaCosta91/jogos_olimipicos.git)
+  
 Realizando a Coleta, Limpeza, Preparação, Análise Exploratória, Análise Preditiva e Visualização de Dados, utilizando as tecnologias SQL (BigQuery), Python, Google Colab, Looker Studio.
 
 * [Análise de Saneamento Básico no Brasil](https://github.com/VanessaCosta91/projeto-saneamento.git)
+  
 Realizando a Coleta, Limpeza, Preparação, Análise Exploratória e Visualização de Dados, utilizando as tecnologias SQL (BigQuery), Python, Google Cloud Notebooks, Looker Studio.
 
 ---
