@@ -59,4 +59,4 @@ Realizando a Coleta, Limpeza, Preparação, Análise Exploratória e Visualizaç
 
 ## 🎯 Objetivo Profissional
 
-Atuar em projetos de Análise de Dados, contribuindo para a geração de insights estratégicos, desenvolvimento de soluções baseadas em dados e inovação nos processos organizacionais. Busco integrar uma equipe dinâmica, onde possa aplicar e aprimorar minhas habilidades técnicas, além de aprender continuamente.
+Atuar em projetos de de Dados, contribuindo para a geração de insights estratégicos, desenvolvimento de soluções baseadas em dados e inovação nos processos organizacionais. Busco integrar uma equipe dinâmica, onde possa aplicar e aprimorar minhas habilidades técnicas, além de aprender continuamente.
