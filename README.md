@@ -39,6 +39,10 @@ Minha trajetória inclui sólida experiência na área contábil, o que fortalec
 
 ## 📂 Projetos Recentes
 
+* [Indicadores Dados - Projeto Flask](https://github.com/VanessaCosta91/indicadores_dados.git)
+
+Desenvolvimento de aplicação web com Flask e SQLAlchemy para cadastro e autenticação de usuários e companhias, utilizando HTML, WTForms e Bootstrap.
+
 * [Detecção de Anomalias em Transações de Cartão de Crédito](https://github.com/VanessaCosta91/credicard_analysis)
 
 Foram realizadas as etapas de Coleta, Limpeza, Preparação, Análise Exploratória, Modelagem com KMeans, Visualização de Resultados, Automação e Documentação. O projeto foi desenvolvido com as tecnologias PySpark, Python (Pandas, Matplotlib, Seaborn), Google Colab.
