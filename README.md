@@ -7,9 +7,11 @@
 
 ## 👩‍🦱 Sobre Mim
 
-Olá! Meu nome é Vanessa Costa, sou apaixonada por dados e inovação. Tenho atuado com foco em Análise de Dados e Business Intelligence, utilizando ferramentas como SQL, Python, Power BI, Tableau e Google Looker Studio para transformar dados em insights estratégicos.
+Olá! Meu nome é Vanessa Costa e sou Analista de Dados, atualmente cursando Ciência da Computação. Construí minha trajetória combinando uma base em contabilidade, onde desenvolvi visão analítica, atenção aos detalhes e domínio de processos, com formação técnica em tecnologia, estatística, machine learning e desenvolvimento.
 
-Minha trajetória inclui sólida experiência na área contábil, o que fortaleceu minha visão analítica, atenção aos detalhes e capacidade de interpretar e comunicar informações. Atualmente, aplico essas habilidades em projetos envolvendo manipulação e análise de grandes volumes de dados, desenvolvimento de modelos preditivos e automação de processos com PySpark e Scikit-Learn.
+Na minha transição para a área de Dados, desenvolvi competências práticas por meio de projetos completos, envolvendo ETL, análise exploratória, criação de dashboards, automação com Python e modelagem preditiva com PySpark e Scikit-Learn. Trabalho com ferramentas como SQL, Python, BigQuery, Power BI, Tableau, Looker Studio e Git, além de desenvolver aplicações web utilizando Flask.
+
+Busco integrar minha formação em Computação com minha experiência em dados para criar soluções inteligentes, eficientes e alinhadas a problemas reais de negócio.
 
 ---
 
