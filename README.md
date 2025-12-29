@@ -7,11 +7,11 @@
 
 ## 👩‍🦱 Sobre Mim
 
-Olá! Meu nome é Vanessa Costa e sou Analista de Dados, atualmente cursando Ciência da Computação. Construí minha trajetória combinando uma base em contabilidade, onde desenvolvi visão analítica, atenção aos detalhes e domínio de processos, com formação técnica em tecnologia, estatística, machine learning e desenvolvimento.
+Olá! Sou Analista de Dados, atualmente cursando Ciência da Computação, com experiência prática em análise de dados operacionais e financeiros, organização de informações e construção de indicadores para apoio à tomada de decisão.
 
-Na minha transição para a área de Dados, desenvolvi competências práticas por meio de projetos completos, envolvendo ETL, análise exploratória, criação de dashboards, automação com Python e modelagem preditiva com PySpark e Scikit-Learn. Trabalho com ferramentas como SQL, Python, BigQuery, Power BI, Tableau, Looker Studio e Git, além de desenvolver aplicações web utilizando Flask.
+Minha trajetória combina uma base sólida em contabilidade, que me trouxe visão de negócio, atenção a detalhes e foco em processos, com formação técnica em dados e tecnologia. Atuo com extração, tratamento e validação de dados, análises exploratórias, automações analíticas em Python e desenvolvimento de dashboards em ferramentas de BI.
 
-Busco integrar minha formação em Computação com minha experiência em dados para criar soluções inteligentes, eficientes e alinhadas a problemas reais de negócio.
+Tenho interesse em atuar em ambientes orientados a dados, contribuindo com informações confiáveis, análises recorrentes e suporte analítico para áreas internas, enquanto continuo evoluindo tecnicamente em engenharia e ciência de dados.
 
 ---
 
@@ -19,23 +19,20 @@ Busco integrar minha formação em Computação com minha experiência em dados 
 
 * SQL
 * Python
-* Power BI
-* Tableau
-* Google Looker Studio
-* PySpark
-* Scikit-Learn
+* Power BI | Looker Studio | Tableau
+* Excel / Google Sheets
 * Git & GitHub
-* R
 
 ---
 
 ## 👩‍💻 Habilidades
 
-* Manipulação e análise de dados em projetos de diferentes contextos
-* Criação de dashboards e visualizações de dados com foco em insights estratégicos
-* Aplicação de técnicas de modelagem preditiva, com foco em aprendizado contínuo
-* Comunicação clara e objetiva de insights
-* Capacidade analítica para propor soluções eficientes
+* Extração, tratamento e validação de dados
+* Análise exploratória e construção de indicadores
+* Automação de rotinas analíticas em Python
+* Visualização de dados e comunicação de insights
+* Apoio analítico a áreas operacionais e financeiras
+* Organização e documentação de processos de dados
 
 ---
 
@@ -65,4 +62,4 @@ Realizando a Coleta, Limpeza, Preparação, Análise Exploratória e Visualizaç
 
 ## 🎯 Objetivo Profissional
 
-Atuar em projetos de de Dados, contribuindo para a geração de insights estratégicos, desenvolvimento de soluções baseadas em dados e inovação nos processos organizacionais. Busco integrar uma equipe dinâmica, onde possa aplicar e aprimorar minhas habilidades técnicas, além de aprender continuamente.
+Atuar em projetos de de Dados, apoiando decisões de negócio por meio de dados organizados, indicadores claros e análises consistentes, com interesse em ambientes dinâmicos e orientados a dados.
