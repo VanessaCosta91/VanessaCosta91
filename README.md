@@ -1,5 +1,5 @@
 # Vanessa Costa
-### Analista de Dados
+### Analista de Dados | Python • SQL • BI | Estudando Machine Learning
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-costa-analysis/) [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:vanessa-cost@hotmail.com) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:van.nessacic@gmail.com)
 
@@ -7,19 +7,33 @@
 
 ## 👩‍🦱 Sobre Mim
 
-Olá! Sou Analista de Dados, atualmente cursando Ciência da Computação, com experiência prática em análise de dados operacionais e financeiros, organização de informações e construção de indicadores para apoio à tomada de decisão.
+Olá. Sou Analista de Dados e estudante de Ciência da Computação. Tenho experiência em análise de dados operacionais e financeiros, organização de informações e construção de indicadores para apoio à tomada de decisão.
 
-Minha trajetória combina uma base sólida em contabilidade, que me trouxe visão de negócio, atenção a detalhes e foco em processos, com formação técnica em dados e tecnologia. Atuo com extração, tratamento e validação de dados, análises exploratórias, automações analíticas em Python e desenvolvimento de dashboards em ferramentas de BI.
+Minha trajetória combina uma base em contabilidade, que me trouxe visão de negócio e atenção a detalhes, com formação técnica em dados e tecnologia.
 
-Tenho interesse em atuar em ambientes orientados a dados, contribuindo com informações confiáveis, análises recorrentes e suporte analítico para áreas internas, enquanto continuo evoluindo tecnicamente em engenharia e ciência de dados.
+Atuo com extração, tratamento e validação de dados, análise exploratória em Python e desenvolvimento de dashboards em ferramentas de BI.
+
+Tenho interesse em atuar em ambientes orientados a dados, contribuindo com análises consistentes, indicadores confiáveis e suporte analítico para áreas de negócio, enquanto continuo evoluindo em engenharia e ciência de dados.
 
 ---
 
 ## 🪛 Ferramentas & Tecnologias
 
+### Linguagens
 * SQL
 * Python
-* Power BI | Looker Studio | Tableau
+
+### Data & Analytics
+* Pandas
+* PySpark
+* BigQuery
+
+### Visualização
+* Power BI
+* Looker Studio
+* Tableau
+
+### Outros
 * Excel / Google Sheets
 * Git & GitHub
 
@@ -38,28 +52,60 @@ Tenho interesse em atuar em ambientes orientados a dados, contribuindo com infor
 
 ## 📂 Projetos Recentes
 
-* [Indicadores Dados - Projeto Flask](https://github.com/VanessaCosta91/indicadores_dados.git)
+*[Pipeline de Dados para Fraude em Cartão de Crédito](https://github.com/VanessaCosta91/projetos_credito/tree/d4a8c2c0b4c50a9e34271041a6510cf2d84aa35e/pipeline_credito)
 
-Desenvolvimento de aplicação web com Flask e SQLAlchemy para cadastro e autenticação de usuários e companhias, utilizando HTML, WTForms e Bootstrap.
+Pipeline de dados para ingestão, validação e análise de transações financeiras com foco na identificação de padrões de fraude. O projeto inclui coleta automatizada de dados, transformações analíticas e persistência em banco SQL.
 
-* [Detecção de Anomalias em Transações de Cartão de Crédito](https://github.com/VanessaCosta91/credicard_analysis)
+**Tecnologias**
+Python • Pandas • SQL • SQLite • Data Pipeline
 
-Foram realizadas as etapas de Coleta, Limpeza, Preparação, Análise Exploratória, Modelagem com KMeans, Visualização de Resultados, Automação e Documentação. O projeto foi desenvolvido com as tecnologias PySpark, Python (Pandas, Matplotlib, Seaborn), Google Colab.
+* [Detecção de Anomalias em Transações de Cartão](https://github.com/VanessaCosta91/credicard_analysis.git)
+
+Projeto de análise de dados para identificação de comportamentos anômalos em transações financeiras utilizando clusterização (KMeans). Inclui análise exploratória, criação de variáveis analíticas e visualização dos padrões identificados.
+
+**Tecnologias**
+Python • PySpark • Pandas • Machine Learning
 
 * [Automação de Indicadores de E-commerce com BigQuery + Python](https://github.com/VanessaCosta91/automacao_dados_indicadores.git)
   
-Foram realizadas as etapas de ETL, com agregações e cálculos estatísticos em Python, conversão de consultas SQL para DataFrames, e exportação dos resultados para arquivos .csv, consumidos por um dashboard no Power BI.
+Automação de indicadores operacionais utilizando SQL e Python. Os dados são extraídos do BigQuery, tratados em Python e utilizados na geração de métricas consumidas por dashboards no Power BI.
+
+**Tecnologias**
+SQL • BigQuery • Python • Pandas • Power BI
+
+* [Análise de Crédito e Inadimplência](https://github.com/VanessaCosta91/projetos_credito/tree/d4a8c2c0b4c50a9e34271041a6510cf2d84aa35e/dashboard_credito_Inadimplencia)
+
+Projeto de análise de risco de crédito com ETL em Python, análise exploratória e construção de indicadores para identificação de perfis com maior probabilidade de inadimplência.
+
+**Tecnologias**
+Python • Pandas • Power BI • Data Analysis
+
+* [Conciliação Automática de Transações](https://github.com/VanessaCosta91/conciliacao_bancaria.git)
+
+Projeto de automação para conciliação e validação de registros financeiros provenientes de diferentes fontes, identificando divergências e inconsistências nos dados.
+
+**Tecnologias**
+Python • Pandas • Excel • Data Validation
 
 * [Análise Histórica e Preditiva dos Jogos Olímpicos (19896-2022)](https://github.com/VanessaCosta91/jogos_olimipicos.git)
   
-Realizando a Coleta, Limpeza, Preparação, Análise Exploratória, Análise Preditiva e Visualização de Dados, utilizando as tecnologias SQL (BigQuery), Python, Google Colab, Looker Studio.
+Projeto de análise de dados dos Jogos Olímpicos com foco na identificação de padrões históricos e tendências ao longo do tempo. Inclui etapas de coleta, tratamento, análise exploratória e experimentação com modelos preditivos para análise de desempenho esportivo.
 
-* [Análise de Saneamento Básico no Brasil](https://github.com/VanessaCosta91/projeto-saneamento.git)
-  
-Realizando a Coleta, Limpeza, Preparação, Análise Exploratória e Visualização de Dados, utilizando as tecnologias SQL (BigQuery), Python, Google Cloud Notebooks, Looker Studio.
+**Tecnologias**
+SQL • BigQuery • Python • Pandas • Visualização de Dados • Looker Studio
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Atuar em projetos de de Dados, apoiando decisões de negócio por meio de dados organizados, indicadores claros e análises consistentes, com interesse em ambientes dinâmicos e orientados a dados.
+Atuar em projetos de dados apoiando decisões de negócio por meio de dados organizados, indicadores claros e análises consistentes. Busco ambientes orientados a dados onde eu possa contribuir com análises e continuar evoluindo tecnicamente em analytics, engenharia e ciência de dados.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Vanessa GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaCosta91&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCosta91&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=VanessaCosta91)](https://git.io/streak-stats)
