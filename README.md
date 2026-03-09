@@ -41,18 +41,19 @@ Tenho interesse em atuar em ambientes orientados a dados, contribuindo com anál
 
 ## 👩‍💻 Habilidades
 
-* Extração, tratamento e validação de dados
-* Análise exploratória e construção de indicadores
-* Automação de rotinas analíticas em Python
-* Visualização de dados e comunicação de insights
-* Apoio analítico a áreas operacionais e financeiras
-* Organização e documentação de processos de dados
+* Extração, limpeza e transformação de dados (SQL e Python)
+* Análise exploratória de dados (EDA) e construção de indicadores
+* Automação de rotinas analíticas com Python
+* Criação de dashboards e visualizações em ferramentas de BI
+* Integração e análise de dados de diferentes fontes (BigQuery, arquivos .csv, planilhas)
+* Comunicação de insights e apoio à tomada de decisão
+* Organização e documentação de processos e pipelines de dados
 
 ---
 
 ## 📂 Projetos Recentes
 
-*[Pipeline de Dados para Fraude em Cartão de Crédito](https://github.com/VanessaCosta91/projetos_credito/tree/d4a8c2c0b4c50a9e34271041a6510cf2d84aa35e/pipeline_credito)
+* [Pipeline de Dados para Fraude em Cartão de Crédito](https://github.com/VanessaCosta91/projetos_credito/tree/d4a8c2c0b4c50a9e34271041a6510cf2d84aa35e/pipeline_credito)
 
 Pipeline de dados para ingestão, validação e análise de transações financeiras com foco na identificação de padrões de fraude. O projeto inclui coleta automatizada de dados, transformações analíticas e persistência em banco SQL.
 
