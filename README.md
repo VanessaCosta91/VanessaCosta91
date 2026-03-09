@@ -105,8 +105,8 @@ Atuar em projetos de dados apoiando decisões de negócio por meio de dados orga
 
 ## 📊 Estatísticas do GitHub
 
-![Vanessa GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaCosta91&show_icons=true)
+[![Vanessa GitHub stats](https://github-readme-stats.vercel.app/api?username=VanessaCosta91&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCosta91&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanessaCosta91)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=VanessaCosta91)](https://git.io/streak-stats)
