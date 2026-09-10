@@ -164,6 +164,4 @@ Tenho interesse em ambientes onde possa unir **conhecimento de processos de negÃ
 
 [LinkedIn](https://www.linkedin.com/in/vanessa-costa-analysis/)
 
-[GitHub](https://github.com/VanessaCosta91)
-
 Email: vanessa-cost@hotmail.com
