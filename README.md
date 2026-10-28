@@ -26,7 +26,7 @@ Tenho experiência com:
 - Mapeamento e melhoria de processos
 - SQL e análise de dados
 
-Atualmente estou direcionando minha carreira para **Suporte de Sistemas, Service Desk e Qualidade de Software (QA)**, aprofundando conhecimentos em testes funcionais, SQL, APIs, Git e automação.
+Atualmente estou direcionando minha carreira para **Dados, Qualidade de Software (QA) e Suporte de Sistemas)**, aprofundando conhecimentos em testes funcionais, SQL, APIs, Git e automação.
 
 Também mantenho projetos de dados utilizando Python, SQL e ferramentas de BI como forma de continuar desenvolvendo minha capacidade analítica e técnica.
 
