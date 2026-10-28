@@ -143,19 +143,6 @@ Universidade Estadual do Vale do Acaraú
 
 **Analista de Dados**  
 EBAC
-
----
-
-## 🎯 Objetivo Profissional
-
-- Suporte de Sistemas
-- Service Desk
-- Suporte ERP
-- QA / Testes de Software
-- Analista de Sistemas Júnior
-- Assistente de Sistemas
-- Analista de Suporte Júnior
-
 Tenho interesse em ambientes onde possa unir **conhecimento de processos de negócio, sistemas, atendimento ao usuário, análise de problemas e tecnologia**.
 
 ---
